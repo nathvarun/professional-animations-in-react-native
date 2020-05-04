@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "HelloWorld",
-    "slug": "skeleton-ui",
+    "slug": "react-native-uber-ui",
     "platforms": [
       "ios",
       "android",
